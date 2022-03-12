@@ -6,3 +6,5 @@ El sistema cuenta con información básica:
 - Número de paladas.
 - Ajuste para el ritmo de remo.
 Al realizar la acción de "palada" mediante vibración el smartphone indica el tiempo de vuelta a la posición de ataque para la siguiente palada.
+
+![Esta es una imagen](https://github.com/secali/Bogador-Challenge/blob/main/Panalla%20Inicial.png?raw=true)
