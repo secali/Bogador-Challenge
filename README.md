@@ -1,4 +1,5 @@
 Contexto:
+
 En un modesto club de remo de barrio, las máquinas de remo habían perdido una de sus partes más importantes, el dispositivo que mostraba la información relativa a la palada. Sin ello, el ejercicio transcurría monótono y casi sin sentido al no poder comparar la información.
 
 Recordé sin embargo una cosa: todo el día llevamos un pequeño dispositivo en el bolsillo con una serie de sensores que podrían sustituir a esa pantalla, evitando el gasto de nuevos monitores de información, pues la suma ascendía a más de 1000€, inasumibles para el club.
