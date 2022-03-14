@@ -1,4 +1,4 @@
-Contexto:
+# Contexto
 
 En un modesto club de remo de barrio, las máquinas de remo habían perdido una de sus partes más importantes, el dispositivo que mostraba la información relativa a la palada. Sin ello, el ejercicio transcurría monótono y casi sin sentido al no poder comparar la información.
 
